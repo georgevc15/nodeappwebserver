@@ -1,0 +1,31 @@
+{
+  "name": "nume",
+  "version": "1.0.0",
+  "description": "webserver for node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgevc15/nodeappwebserver.git"
+  },
+  "keywords": [
+    "webserver",
+    "for",
+    "node",
+    "app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgevc15/nodeappwebserver/issues"
+  },
+  "homepage": "https://github.com/georgevc15/nodeappwebserver#readme",
+  "dependencies": {
+    "axon": "^2.0.0",
+    "express": "^3.5.1",
+    "request": "^2.34.0",
+    "socket.io": "^1.2.0"
+  }
+}
